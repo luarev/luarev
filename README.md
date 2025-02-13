@@ -34,6 +34,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-luanarev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanarev/)](https://www.linkedin.com/in/luanarev/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanarev/)](https://www.linkedin.com/in/luanarev/)
 [![Gmail Badge](https://img.shields.io/badge/-luanarevbd@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanarevbd@gmail.com)](mailto:luanarevbd@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/luarev?label=follow&style=social)](https://github.com/luarev)
