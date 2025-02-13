@@ -28,7 +28,7 @@
 
 <br/>
 
-<a href="https://github.com/luanarev" title="Meu perfil">
+<a href="https://github.com/luarev" title="Meu perfil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanarev&theme=dracula&show_icons=true" />
 </a>
 
