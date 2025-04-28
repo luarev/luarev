@@ -26,4 +26,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanarevbd/)
 [![Gmail](https://img.shields.io/badge/luanarevbd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanarevbd@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/luarev?label=Follow&style=for-the-badge)](https://github.com/luarev)
