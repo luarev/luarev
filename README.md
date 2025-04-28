@@ -23,5 +23,5 @@
   Repositório: `monitoramento-temperatura-umidade`
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanarevbd/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luanarevbd@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-luanarevbd@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanarevbd@gmail.com)](mailto:luanarevbd@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/luarev?label=follow&style=social)](https://github.com/luarev)
