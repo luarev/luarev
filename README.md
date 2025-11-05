@@ -1,26 +1,32 @@
-**🌷 Aplicações e Tecnologias**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+> Estudante de Ciência da Computação com foco em Desenvolvimento Back-End e Dados.
 
+---
 
-**🌸 DevOps e Versionamento**
+### O que estou focando agora
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+*  **Python**
+*  **Bancos de Dados:** NoSQL (Firebase/Firestore) e SQL.
+*  **Cloud:** Firebase (BaaS) e meu próximo passo é a AWS.
 
-**🌼 Alguns Projetos**
+### Ferramentas
 
-- **Landing Page – Freelancer**  
-  Desenvolvimento de uma landing page responsiva para o setor jurídico.  
-  Repositório: `seu-direito-na-pratica`
+* **Back-End:** Python, Firebase (Cloud Functions com TypeScript)
+* **Bancos de Dados:** Firestore, SQL Básico
+* **Autenticação:** Firebase Authentication
+* **Controle de Versão:** Git & GitHub
 
-- **Monitoramento de Ambiente com ESP32 – Projeto Acadêmico**  
-  Monitoramento de temperatura e umidade em tempo real utilizando C++ e ESP32.  
-  Repositório: `monitoramento-temperatura-umidade`
+---
 
-**🌺 Contato**
+### Projeto em Destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanarevbd/)
-[![Gmail](https://img.shields.io/badge/luanarevbd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanarevbd@gmail.com)
+#### UniTalks
+
+Minha principal contribuição como **Desenvolvedora Back-end** neste projeto acadêmico. Fui responsável por toda a arquitetura de dados no Firestore, o sistema de autenticação de usuários e a lógica de postagens (incluindo paginação) usando Cloud Functions.
+
+---
+
+### Contato
+
+* **E-mail:** luanarevbd@gmail.com
+* **GitHub:** [github.com/luarev](https://github.com/luarev)
