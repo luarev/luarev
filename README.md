@@ -21,6 +21,7 @@
 ### Projeto em Destaque
 
 #### UniTalks
+https://github.com/luarev/Unitalks
 
 Minha principal contribuição como **Desenvolvedora Back-end** neste projeto acadêmico. Fui responsável por toda a arquitetura de dados no Firestore, o sistema de autenticação de usuários e a lógica de postagens (incluindo paginação) usando Cloud Functions.
 
