@@ -1,33 +1,21 @@
-
-> Estudante de Ciência da Computação com foco em Desenvolvimento Back-End e Dados.
-
----
-
-### O que estou focando agora
-
-*  **Python**
-*  **Bancos de Dados:** NoSQL (Firebase/Firestore) e SQL.
-*  **Cloud:** Firebase (BaaS) e meu próximo passo é a AWS.
-
-### Ferramentas
-
-* **Back-End:** Python, Firebase (Cloud Functions com TypeScript)
-* **Bancos de Dados:** Firestore, SQL Básico
-* **Autenticação:** Firebase Authentication
-* **Controle de Versão:** Git & GitHub
+Estudante de Ciência da Computação com conhecimentos em **Desevolvimento Back-end**, **Banco de Dados** e **Cloud Computing**.
 
 ---
 
-### Projeto em Destaque
-
-#### UniTalks
-https://github.com/luarev/Unitalks
-
-Minha principal contribuição como **Desenvolvedora Back-end** neste projeto acadêmico. Fui responsável por toda a arquitetura de dados no Firestore, o sistema de autenticação de usuários e a lógica de postagens (incluindo paginação) usando Cloud Functions.
+* **Linguagens:** Python.
+* **Back-end:** Desenvolvimento de **APIs RESTful** (criação de rotas, autenticação e regras de negócio).
+* **Banco de Dados:** Modelagem e gestão de bancos relacionais com **PostgreSQL** e experiência com NoSQL (**Firebase/Firestore**).
+* **Cloud & DevOps:** Deploy e configuração de servidores na **AWS (Lightsail)** e Git/GitHub.
 
 ---
 
-### Contato
+### Projeto em Destaque: UniTalks
 
-* **E-mail:** luanarevbd@gmail.com
-* **GitHub:** [github.com/luarev](https://github.com/luarev)
+[Link para o repositório do UniTalks](https://github.com/luarev/Unitalks)
+
+---
+
+### Vamos conversar?
+
+* [LinkedIn](https://www.linkedin.com/in/luana-revoredo-6ba41b391/)
+* E-mail: luanarevbd@gmail.com
